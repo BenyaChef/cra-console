@@ -5,4 +5,4 @@
  console.log(i(3));
 function getIp() {
 
-}
+}const newArr = [];
