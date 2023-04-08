@@ -18,3 +18,9 @@ console.log(arr);
 const lot = t => t * 2;
 
 console.log(lot(2));
+
+
+const obj = {
+    one: "1",
+    two: "2"
+};
